@@ -1,0 +1,14 @@
+html{
+    background-color:#D0DBDB;
+    font-size: 20px;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+}
